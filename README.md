@@ -1,11 +1,28 @@
-<h1 align="center">sup ✌✌, I'm Pedro</h1>
-<h3 align="center">computer science student and future gamedev</h3>
+<div align="center">
+  <a href="https://open.spotify.com/user/pedroka009">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedroka009&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pedro-leal-9080122bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-leal-9080122bb" height="30" width="40" /></a>
-<a href="https://instagram.com/5pedro.souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="5pedro.souza" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img height="200" src="https://gifer.com/de/IWqN"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://linkedin.com/in/pedro-leal-9080122bb" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/5pedro.souza" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<h5 align="left">sup ✌✌, I'm Pedro<br><br>computer science student and future gamedev</h5>
+
+###
