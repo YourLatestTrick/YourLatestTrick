@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://open.spotify.com/user/pedroka009">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedroka009&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedroka009&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://gifer.com/de/IWqN"  />
+  <img height="200" src="https://i.imgflip.com/8up509.gif"  />
 </div>
 
 ###
