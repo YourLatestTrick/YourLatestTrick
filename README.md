@@ -23,6 +23,6 @@
 
 ###
 
-<h5 align="left">sup ✌✌, I'm Pedro<br><br>computer science student and future gamedev</h5>
+<h5 align="left"></h5>
 
 ###
