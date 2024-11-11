@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/8up509.gif"  />
+  <img height="300" src="https://i.imgflip.com/8up509.gif"  />
 </div>
 
 ###
