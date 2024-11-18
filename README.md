@@ -17,12 +17,13 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://linkedin.com/in/pedro-leal-9080122bb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=8B0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=6A0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://instagram.com/5pedro.souza" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=8B0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=6A0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
 </div>
+
 
 ###
 
