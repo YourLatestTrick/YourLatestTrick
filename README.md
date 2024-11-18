@@ -36,10 +36,11 @@
 ###
 
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 30px;">
 
-  ![Seu GitHub stats](https://github-readme-stats.vercel.app/api?username=YourLatestTrick&count_private=true&show_icons=true&hide_title=true&hide_border=true&theme=radical&bg_color=4B0000)
+  <img src="https://github-readme-stats.vercel.app/api?username=YourLatestTrick&count_private=true&show_icons=true&hide_title=true&hide_border=true&theme=radical&bg_color=4B0000" alt="GitHub Stats" />
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourLatestTrick&langs_count=7&layout=compact&theme=radical&bg_color=4B0000)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourLatestTrick&langs_count=7&layout=compact&theme=radical&bg_color=4B0000" alt="Top Languages" />
 
 </div>
+
