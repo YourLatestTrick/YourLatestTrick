@@ -4,7 +4,7 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://open.spotify.com/user/pedroka009">
     <img height="260" src="https://spotify-recently-played-readme.vercel.app/api?user=pedroka009&count=3&unique=true" alt="Spotify recently played" />
   </a>
@@ -25,8 +25,6 @@
 
 ###
 
-<h5 align="left"></h5>
-
-###
-
-<img src="https://komarev.com/ghpvc/?username=YourLatestTrick&color=4B0000" alt="Contador de Visitas" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourLatestTrick&color=4B0000" alt="Contador de Visitas" />
+</div>
