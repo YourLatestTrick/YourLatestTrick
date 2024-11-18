@@ -33,6 +33,6 @@
 
 ###
 
-<img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blue" alt="Contador de Visitas" />
+<img src="https://komarev.com/ghpvc/?username=YourLatestTrick&color=blue" alt="Contador de Visitas" />
 
 ###
