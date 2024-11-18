@@ -10,7 +10,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedroka009&count=3&unique=true" alt="Spotify recently played" />
   </a>
   
-  <img height="200" src="https://i.imgflip.com/8up509.gif" alt="Van Halen GIF" />
+  <img height="250" src="https://i.imgflip.com/8up509.gif" alt="Van Halen GIF" />
 </div>
 ###
 
