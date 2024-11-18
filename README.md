@@ -13,18 +13,18 @@
 ###
 
 <div align="center">
-  <img height="260" src="https://i.imgflip.com/8up509.gif" alt="Van Halen GIF" />
-</div>
-
-###
-
-<div align="center">
   <a href="https://linkedin.com/in/pedro-leal-9080122bb" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=4B0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
   <a href="https://instagram.com/5pedro.souza" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=4B0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="260" src="https://i.imgflip.com/8up509.gif" alt="Van Halen GIF" />
 </div>
 
 ###
