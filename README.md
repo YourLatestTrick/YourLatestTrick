@@ -4,17 +4,16 @@
 
 ###
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: space-around; align-items: center;">
+  <!-- Spotify -->
   <a href="https://open.spotify.com/user/pedroka009">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedroka009&count=3&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedroka009&count=3&unique=true" alt="Spotify recently played" />
   </a>
+  
+  <!-- Van Halen GIF -->
+  <img height="300" src="https://i.imgflip.com/8up509.gif" alt="Van Halen GIF" />
 </div>
 
-###
-
-<div align="center">
-  <img height="300" src="https://i.imgflip.com/8up509.gif"  />
-</div>
 
 ###
 
