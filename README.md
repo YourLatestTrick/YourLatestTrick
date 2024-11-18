@@ -37,9 +37,9 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 30px;">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YourLatestTrick&count_private=true&show_icons=true&hide_title=true&hide_border=true&theme=radical&bg_color=4B0000&card_width=400" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YourLatestTrick&count_private=true&show_icons=true&hide_title=true&hide_border=true&theme=radical&bg_color=4B0000&card_width=400" alt="GitHub Stats" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourLatestTrick&langs_count=7&layout=compact&theme=radical&bg_color=4B0000&card_width=400" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourLatestTrick&langs_count=7&layout=compact&theme=radical&bg_color=4B0000&card_width=400" alt="Top Languages" />
 
 </div>
 
