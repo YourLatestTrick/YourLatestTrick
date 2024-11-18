@@ -32,3 +32,7 @@
 <h5 align="left"></h5>
 
 ###
+
+<img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blue" alt="Contador de Visitas" />
+
+###
