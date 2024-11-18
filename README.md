@@ -1,5 +1,5 @@
 <div align="center">
-    <img height="310" src="https://i.imgur.com/lZ4XcJz.png"  />
+    <img height="320" src="https://i.imgur.com/lZ4XcJz.png"  />
 </div>
 
 ###
@@ -37,46 +37,9 @@
 
 
 <div align="center">
-  <h2>Linguagens de Programação</h2>
+
+  ![Seu GitHub stats](https://github-readme-stats.vercel.app/api?username=YourLatestTrick&count_private=true&show_icons=true&hide_title=true&hide_border=true&theme=radical&bg_color=4B0000)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourLatestTrick&langs_count=7&layout=compact&theme=radical&bg_color=4B0000)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
-
-###
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <!-- Icone de Python e porcentagem -->
-  <div style="text-align: center;">
-    <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python logo" />
-    <p>80% dos meus projetos</p>
-  </div>
-  
-  <!-- Icone de Java e porcentagem -->
-  <div style="text-align: center;">
-    <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Java_programming_language_logo.svg/2560px-Java_programming_language_logo.svg.png" alt="Java logo" />
-    <p>60% dos meus projetos</p>
-  </div>
-  
-  <!-- Icone de HTML e porcentagem -->
-  <div style="text-align: center;">
-    <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/HTML5_logo_and_wordmark.svg/2560px-HTML5_logo_and_wordmark.svg.png" alt="HTML logo" />
-    <p>90% dos meus projetos</p>
-  </div>
-  
-  <!-- Icone de CSS e porcentagem -->
-  <div style="text-align: center;">
-    <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS logo" />
-    <p>85% dos meus projetos</p>
-  </div>
-  
-  <!-- Icone de JavaScript e porcentagem -->
-  <div style="text-align: center;">
-    <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/6/61/JavaScript_logo_2.svg" alt="JavaScript logo" />
-    <p>70% dos meus projetos</p>
-  </div>
-</div>
-
-###
-
-<div align="center">
-  <p>Essas são algumas das linguagens que eu uso em meus projetos, tanto para web quanto para desenvolvimento de software.</p>
-</div>
-
