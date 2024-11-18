@@ -16,7 +16,7 @@
 
 ###
 
-<div align="center" >
+<div align="left" >
   <a href="https://linkedin.com/in/pedro-leal-9080122bb" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=4B0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
