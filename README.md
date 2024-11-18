@@ -4,14 +4,15 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: space-between; width: 100%; max-width: 1200px;">
-    <a href="https://open.spotify.com/user/pedroka009">
-        <img height="200" src="https://spotify-recently-played-readme.vercel.app/api?user=pedroka009&count=3&unique=true" alt="Spotify recently played" />
-    </a>
-    <img height="200" src="https://i.imgflip.com/8up509.gif" alt="Van Halen GIF" />
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+    
+  <a href="https://open.spotify.com/user/pedroka009">
+    <img height="260" src="https://spotify-recently-played-readme.vercel.app/api?user=pedroka009&count=3&unique=true" alt="Spotify recently played" />
+  </a>
+  
+  <img height="260" src="https://i.imgflip.com/8up509.gif" alt="Van Halen GIF" />
 </div>
 
-<br />
 
 <div align="center" style="display: flex; justify-content: center; gap: 30px;">
 
