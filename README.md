@@ -6,8 +6,8 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <!-- Spotify -->
-  <a href="https://open.spotify.com/user/pedroka009" style="margin-right: 20px;">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedroka009&count=3&unique=true" alt="Spotify recently played" />
+  <a href="https://open.spotify.com/user/pedroka009">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedroka009&count=3&unique=true" alt="Spotify recently played" style="margin-right: 20px;" />
   </a>
   
   <!-- Van Halen GIF -->
