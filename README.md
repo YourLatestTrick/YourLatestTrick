@@ -40,7 +40,8 @@
 
 ###
 
-<div style="float: right;">
+<div align="right">
   <img src="https://komarev.com/ghpvc/?username=YourLatestTrick&color=4B0000" alt="Contador de Visitas" />
 </div>
+
 
