@@ -12,8 +12,8 @@
 
 ###
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%; flex-wrap: wrap;">
+  <div style="text-align: center;">
     <a href="https://linkedin.com/in/pedro-leal-9080122bb" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=4B0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
     </a>
@@ -22,7 +22,7 @@
     </a>
   </div>
 
-  <img height="260" src="https://i.imgflip.com/8up509.gif" alt="Van Halen GIF" />
+  <img height="260" src="https://i.imgflip.com/8up509.gif" alt="Van Halen GIF" style="max-width: 100%; margin-left: 20px;" />
 </div>
 
 ###
