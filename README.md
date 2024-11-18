@@ -5,13 +5,12 @@
 ###
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <!-- Spotify -->
+    
   <a href="https://open.spotify.com/user/pedroka009">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedroka009&count=3&unique=true" alt="Spotify recently played" style="margin-left: -100px;" />
+    <img height="200" src="https://spotify-recently-played-readme.vercel.app/api?user=pedroka009&count=3&unique=true" alt="Spotify recently played" />
   </a>
   
-  <!-- Van Halen GIF -->
-  <img height="300" src="https://i.imgflip.com/8up509.gif" alt="Van Halen GIF" />
+  <img height="200" src="https://i.imgflip.com/8up509.gif" alt="Van Halen GIF" />
 </div>
 
 
