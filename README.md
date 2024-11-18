@@ -6,7 +6,7 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
     
-  <a href="https://open.spotify.com/user/pedroka009" style="margin-right: 40px;">
+  <a href="https://open.spotify.com/user/pedroka009" style="margin-right: 100px;">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedroka009&count=3&unique=true" alt="Spotify recently played" />
   </a>
   
