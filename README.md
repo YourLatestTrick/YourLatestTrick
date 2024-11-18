@@ -4,10 +4,10 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 50px;">
   <!-- Spotify -->
   <a href="https://open.spotify.com/user/pedroka009">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedroka009&count=3&unique=true" alt="Spotify recently played" style="margin-right: 50px;" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedroka009&count=3&unique=true" alt="Spotify recently played" />
   </a>
   
   <!-- Van Halen GIF -->
@@ -32,5 +32,3 @@
 ###
 
 <img src="https://komarev.com/ghpvc/?username=YourLatestTrick&color=blue" alt="Contador de Visitas" />
-
-###
