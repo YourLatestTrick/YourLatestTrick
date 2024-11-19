@@ -10,7 +10,10 @@
     <img height="260" src="https://spotify-recently-played-readme.vercel.app/api?user=pedroka009&count=3&unique=true" alt="Spotify recently played" />
   </a>
   
-  <img height="260" src="https://i.imgflip.com/8up509.gif" alt="Van Halen GIF" />
+  <video autoplay loop muted>
+    <source src="https://i.imgflip.com/8up509.mp4" type="video/mp4">
+    Seu navegador não suporta o formato de vídeo.
+  </video>
 </div>
 
 <br />
